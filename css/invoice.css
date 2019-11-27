@@ -1,0 +1,8 @@
+table.detail_table { font-size: 100%; table-layout: fixed; width: 100%; font-size:  12px;}
+table.detail_table { border-collapse: separate; border-spacing: 2px;font-size:  12px; }
+table.detail_table th, table.detail_table td { border-width: 1px; padding: 0.5em; position: relative; text-align: left;font-size:  12px; }
+table.detail_table th, table.detail_table td { border-radius: 0.25em; border-style: solid;font-size:  12px; }
+table.detail_table th { background: #EEE; border-color: #BBB;font-size:  12px; }
+table.detail_table td { border-color: #DDD; font-size:  12px;}
+.no_border { border-bottom: 0 none; border-radius: 0; border-top: 0 none !important; }
+

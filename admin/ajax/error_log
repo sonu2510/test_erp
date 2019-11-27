@@ -1,0 +1,244 @@
+[08-Aug-2015 08:42:55 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[28-Sep-2015 08:09:34 UTC] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/standuppouches/public_html/ps-config.php on line 3
+[28-Sep-2015 08:09:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/standuppouches/public_html/ps-config.php:3) in /home/standuppouches/public_html/ps-config.php on line 3
+[28-Sep-2015 08:09:34 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/standuppouches/public_html/system/library/session.php on line 8
+[28-Sep-2015 08:09:34 UTC] PHP Warning:  session_start(): Cannot start session with empty session ID in /home/standuppouches/public_html/system/library/session.php on line 12
+[28-Sep-2015 08:09:37 Etc/UTC] PHP Warning:  Unknown: The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in Unknown on line 0
+[28-Sep-2015 08:09:37 Etc/UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[21-Oct-2015 05:15:05 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[21-Oct-2015 05:15:43 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[21-Oct-2015 05:16:05 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[30-Nov-2015 09:01:22 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[30-Nov-2015 09:01:26 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[17-Dec-2015 07:37:05 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[17-Dec-2015 07:37:34 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[06-Jan-2016 07:53:42 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[06-Jan-2016 07:55:58 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[06-Jan-2016 07:56:01 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[06-Jan-2016 07:56:13 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[06-Jan-2016 07:56:14 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[06-Jan-2016 07:56:18 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[15-Feb-2016 03:03:35 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[15-Feb-2016 03:03:46 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[10-Mar-2016 00:37:47 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[22-Mar-2016 19:47:39 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[22-Mar-2016 19:50:42 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[22-Mar-2016 19:51:01 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[22-Mar-2016 19:51:04 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[23-Mar-2016 02:07:10 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[23-Mar-2016 02:07:21 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[03-May-2016 05:12:35 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[28-Jun-2016 01:45:34 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[27-Jul-2016 01:30:36 America/Chicago] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/standuppouches/public_html/admin/ajax/uniqMaterialName.php on line 10
+[09-Sep-2016 09:03:49 America/Chicago] PHP Notice:  Undefined index: ADMIN_LOGIN_SWISS in /home/swissin/public_html/function.php on line 74
+[09-Sep-2016 09:04:59 America/Chicago] PHP Notice:  Undefined index: ADMIN_LOGIN_SWISS in /home/swissin/public_html/function.php on line 74
+[09-Sep-2016 09:25:59 America/Chicago] PHP Notice:  Undefined index: ADMIN_LOGIN_SWISS in /home/swissin/public_html/function.php on line 74
+[09-Sep-2016 09:40:20 America/Chicago] PHP Notice:  Undefined index: ADMIN_LOGIN_SWISS in /home/swissin/public_html/function.php on line 74
+[11-Sep-2016 18:17:58 America/Chicago] PHP Notice:  Undefined index: ADMIN_LOGIN_SWISS in /home/swissin/public_html/function.php on line 74
+[16-Dec-2016 11:27:34 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[16-Dec-2016 11:27:44 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[16-Dec-2016 11:28:40 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[21-Dec-2016 10:21:56 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[03-Feb-2017 05:38:38 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[03-Feb-2017 05:38:49 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[03-Feb-2017 05:43:22 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[03-Feb-2017 05:44:40 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[03-Feb-2017 05:45:03 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[11-Apr-2017 10:09:59 UTC] PHP Fatal error:  Call to undefined method product::chekMaterialName() in /home/swissin/public_html/admin/ajax/uniqMaterialName.php on line 10
+[09-Mar-2018 04:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[06-Apr-2018 06:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:53:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:54:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:54:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:54:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[19-May-2018 06:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[23-Jun-2018 06:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[23-Jun-2018 06:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[23-Jun-2018 06:59:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[26-Jul-2018 09:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[26-Jul-2018 09:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[11-Feb-2019 09:06:00 UTC] PHP Notice:  Undefined variable: ADMIN_EMAIL_QUO in /home/swissonline/public_html/admin/ajax/forgotEmail.php on line 4
+[13-Feb-2019 05:43:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 05:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 05:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 05:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 05:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 05:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 05:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 05:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 06:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 06:02:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 06:06:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[13-Feb-2019 06:07:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[14-Feb-2019 04:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[14-Feb-2019 04:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[14-Feb-2019 04:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[14-Feb-2019 04:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[14-Feb-2019 04:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[02-May-2019 17:50:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[25-Jun-2019 13:04:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[25-Jun-2019 13:05:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[25-Jun-2019 13:23:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
+[25-Jun-2019 13:24:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method product::chekMaterialName() in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/swissonline/public_html/admin/ajax/uniqMaterialName.php on line 10
